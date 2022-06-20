@@ -1,22 +1,20 @@
-title: Hello, world! I'm David Freeman
+title: Hello, My Name is Riska Ayuni
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Hello, My Name is Riska Ayuni
 permalink: ':title/'
-baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://github.com/riskaayuni12345/riskaayuni12345.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: David Freeman # add your name
-author-img: david-freeman.jpg # add your photo
-about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
-social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
-social-github: artemsheludko # add your Github handle
-social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+author: Riska Ayuni # add your name
+author-img: riskaayuni.jpg # add your photo
+about-author: Hello, My Name is Riska Ayuni. i am a student at UIN SUSKA RIAU. Well this is my blog for a college assignment. # add description
+social-twitter: Riska ayunni# add your Twitter handle
+social-facebook: Riska ayuni# add your Facebook handle
+social-github: Riska Ayuni # add your Github handle
+social-linkedin: Riska Ayuni # add your Linkedin handle
+social-email: riskaayuni256@gmail.com# add your Email address
 
 # Disqus
 discus-identifier: mr-brown # add your discus identifier
